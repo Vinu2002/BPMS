@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'MagicAirlines'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_50BD61487D464437A3C9A4025608750D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_27A67AED2B5A4B9191A912F84B12BF1A }}
           package: .
